@@ -7,7 +7,7 @@ Telegram bot (Genshin Impact)
 An AWESOME telegram bot to claim daily rewards and get info on them and alson on what you need to level up weapons, characters and artifacts!
 
 # Commands:
-```bash
+```
 /reward
 /claim
 /claimed
